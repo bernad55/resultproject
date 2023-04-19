@@ -18,7 +18,6 @@ body {
     margin-bottom: 10rem;
     margin-left: 29rem; 
     margin-right: 29rem; 
-    background-color: whitesmoke;
     text-align: center;
  }
  .left {
@@ -32,7 +31,6 @@ body {
     width: 26rem;
     background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%)) ;
     border-radius: 1.5rem;
-   
     color: white;
  }
  .circle {
