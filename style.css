@@ -3,6 +3,8 @@
 body {
     font-family: 'Hanken Grotesk', sans-serif;
     font-size: 18px;
+    background-color:  #FFFFFF;
+
 }
 .contain {
     display: flex;
@@ -11,6 +13,7 @@ body {
     border-radius: 1.5rem;
     height: 18rem;
     width: 26rem;
+    margin: auto;
     margin-top: 10rem; 
     margin-bottom: 10rem;
     margin-left: 29rem; 
